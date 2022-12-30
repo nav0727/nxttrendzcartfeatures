@@ -1,0 +1,22 @@
+.check-btn {
+  border: none;
+  color: #fff;
+  height: 40px;
+  background-color: #0967d2;
+  border-radius: 6px;
+}
+.cart-summary {
+  display: flex;
+  height: 100%;
+  justify-content: flex-end;
+}
+.cart-order {
+  display: flex;
+  flex-direction: column;
+}
+.ord-head {
+  color: #616e7c;
+}
+.price {
+  color: #171f46;
+}
